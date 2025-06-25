@@ -1,4 +1,7 @@
 algoritmo "Departamento de Transito"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : GUSTAVO GUANABARA
+// ALUNO      : KAUA SOUZA FORTUNA
 
 var
 //Variaveis
@@ -19,6 +22,8 @@ inicio
 //LOGICA: IDADE RECEBE O RESULTADO DA SUBTRAÇÃO
           Idade <- AnoAtual - AnoNasci
 
+//PULAR LINHA
+        ESCREVAL (" ")
 //STATUS cabeçalho
            Escreval ("-------- STATUS --------")
                     Escreval (" IDADE: ",Idade," ANOS") //idade

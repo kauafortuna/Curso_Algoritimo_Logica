@@ -1,4 +1,8 @@
-algoritmo "ContagemCrescente"
+algoritmo "ContagemCrescente_"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : GUSTAVO GUANABARA
+// ALUNO      : KAUA SOUZA FORTUNA
+
 var
 //inteiro pois sera de 0 a 10
       CONTADOR: INTEIRO

@@ -1,4 +1,8 @@
 algoritmo "UmaPartidaDeFutebol"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : GUSTAVO GUANABARA
+// ALUNO      : KAUA SOUZA FORTUNA
+
 var
    GOLPSG, GOLBOTAFOGO, DIFERENCA, ABS_DIFERENCA: INTEIRO
 inicio

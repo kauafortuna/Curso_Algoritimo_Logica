@@ -1,4 +1,8 @@
 algoritmo "CalculoIMC"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : GUSTAVO GUANABARA
+// ALUNO      : KAUA SOUZA FORTUNA
+
 var
 //variavel real
            IMC, MASSA, ALTURA: REAL

@@ -1,4 +1,7 @@
-Algoritmo "AproveitamentoAluno2.0"
+Algoritmo "AproveitamentoAluno2_"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : GUSTAVO GUANABARA
+// ALUNO      : KAUA SOUZA FORTUNA
 
 Var
 //para notas tag real

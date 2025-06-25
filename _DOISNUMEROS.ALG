@@ -1,4 +1,7 @@
-Algoritmo "semnome"
+Algoritmo "SOMADOISNUMEROS"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : GUSTAVO GUANABARA
+// ALUNO      : KAUA SOUZA FORTUNA
 
 Var
 // Seção de Declarações das variáveis 

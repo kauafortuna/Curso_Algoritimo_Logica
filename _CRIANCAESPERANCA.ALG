@@ -1,4 +1,7 @@
 algoritmo "CriancaEsperanca"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : GUSTAVO GUANABARA
+// ALUNO      : KAUA SOUZA FORTUNA
 
 var
 //variaveis tipo inteiro para valor monetario

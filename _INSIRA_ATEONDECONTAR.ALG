@@ -1,4 +1,8 @@
 algoritmo "INSIRA_ATEONDECONTAR"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : GUSTAVO GUANABARA
+// ALUNO      : KAUA SOUZA FORTUNA
+
 var
 //VARIAVEIS 'QQ' 'QUANTO EM QUANTO', 'AQ' 'ATE QUANTO'
             QQ, AQ, CONTADOR: INTEIRO
@@ -26,4 +30,6 @@ inicio
            ESCREVAL (" FIM DA CONTAGEM, MUITO OBRIGADO!")
            ESCREVAL (" -----------------------------")
            
+//SE BOTAR PRA CONTAR ATE 154 DE 10 EM 10 ELE CONTA SO ATE 150
+//PQ MAIS 10 SERIA 160 ETT ELE FICA ATE ONDE DA
 fimalgoritmo

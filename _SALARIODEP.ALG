@@ -1,4 +1,8 @@
 algoritmo "SalarioDep"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : GUSTAVO GUANABARA
+// ALUNO      : KAUA SOUZA FORTUNA
+
 var
 //3 variaveis para salario, nome e quantidade de dep
     NOME: caractere
